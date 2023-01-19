@@ -1,0 +1,9 @@
+.formContainer {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.label {
+  width: 500px;
+  margin: 20px;
+}
